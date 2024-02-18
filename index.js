@@ -20,7 +20,7 @@
 // console.log(GenerateQuote());
 
   //Random Number:
-   function generateRAndomNumber(){
-    console.log(Math.floor (Math.random() * 100))
-   }
-   generateRAndomNumber()
+  //  function generateRAndomNumber(){
+  //   console.log(Math.floor (Math.random() * 100))
+  //  }
+  //  generateRAndomNumber()
